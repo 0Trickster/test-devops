@@ -29,7 +29,7 @@ jobs:
 
 
 
-                      if [ ! -d "testeo-devops" ]; then
+                      if [ ! -d "test-devops" ]; then
 
                         git clone https://github.com/0Trickster/test-devops.git
 
@@ -37,7 +37,7 @@ jobs:
 
 
 
-                      cd testeo-devops
+                      cd test-devops
 
 
 
