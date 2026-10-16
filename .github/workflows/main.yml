@@ -29,9 +29,9 @@ jobs:
 
 
 
-                      if [ ! -d "demo-devops-ec2" ]; then
+                      if [ ! -d "testeo-devops" ]; then
 
-                        git clone github.com/cbugueno-duoc/demo-devops-ec2.git
+                        git clone https://github.com/0Trickster/test-devops.git
 
                       fi
 
